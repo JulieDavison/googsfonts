@@ -1,0 +1,21 @@
+h1 {
+    font-family: 'Indie Flower';
+    font-size: 45px;
+    text-decoration: underline;
+}
+
+p {
+    font-family: Akronim;
+    font-weight: 200;
+    
+}
+
+h3 {
+    font-size: 35px;
+}
+
+h4 {
+    font-family: 'Open Sans Condensed';
+    line-height: 40px;
+    font-size: 30px;
+}
